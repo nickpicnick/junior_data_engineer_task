@@ -1,0 +1,6 @@
+pandas
+sqlalchemy
+requests
+psycopg2-binary
+dash
+apache-airflow==2.8.1  # Optional, for Airflow DAG only
