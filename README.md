@@ -30,7 +30,7 @@ The purpose of the project is to demonstrate a simple ETL pipeline, with REST AP
 
 ### 1. Clone the Repository
 ```bash
-git clone https://your-username/junior_data_engineer_task.git
+git clone https://nickpicnick/junior_data_engineer_task.git
 cd junior_data_engineer_task
 ```
 
